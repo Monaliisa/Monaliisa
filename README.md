@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Sou a Monalisa  👋
 
 <!--
 **Monaliisa/Monaliisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/Monaliisa/Monaliisa">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Monaliisa" />
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Monaliisa&theme=dark&show_icons=true" />
 </a>
 
 <a href="https://github.com/Monaliisa/Monaliisa">
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=Monaliisa&show_icons=true" />
+  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=Monaliisa&theme=dark&show_icons=true />
 </a>
