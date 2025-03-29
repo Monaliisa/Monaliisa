@@ -16,18 +16,13 @@
   </a>
 </div>
 
+
 ### Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Monaliisa&show_icons=true&bg_color=F8E8FF&title_color=6A0DAD&text_color=333&icon_color=6A0DAD" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monaliisa&show_icons=true&bg_color=F8E8FF&title_color=6A0DAD&text_color=333&icon_color=6A0DAD" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Monaliisa&show_icons=true&bg_color=F8E8FF&title_color=6A0DAD&text_color=333&icon_color=6A0DAD" width="48%" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monaliisa&show_icons=true&bg_color=F8E8FF&title_color=6A0DAD&text_color=333&icon_color=6A0DAD" width="48%" />
+</div>
 
 
 
